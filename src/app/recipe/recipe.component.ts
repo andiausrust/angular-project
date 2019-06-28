@@ -12,4 +12,6 @@ export class RecipeComponent implements OnInit {
   ngOnInit() {
   }
 
+  onSelected(){}
+
 }
