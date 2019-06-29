@@ -6,12 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styles: []
 })
 export class RecipeComponent implements OnInit {
-
   constructor() { }
 
   ngOnInit() {
   }
-
-  onSelected(){}
 
 }
